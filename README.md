@@ -20,7 +20,3 @@ Built with:
 - Fast retrieval with FAISS vector indexing
 
 ---
-
-## Demo
-
-Add your screenshots or demo GIF here.
